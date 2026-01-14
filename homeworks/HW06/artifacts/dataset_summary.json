@@ -1,0 +1,13 @@
+{
+  "rows": 12000,
+  "cols": 30,
+  "target_distribution": {
+    "0": 0.6765833333333333,
+    "1": 0.3234166666666667
+  },
+  "feature_types": {
+    "float64": 24,
+    "int64": 5
+  },
+  "is_multiclass": false
+}
