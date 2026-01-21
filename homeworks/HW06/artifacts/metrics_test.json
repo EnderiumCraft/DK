@@ -15,7 +15,7 @@
     "roc_auc": 0.9697882281245238
   },
   "cv_scores": {
-    "DecisionTreeClassifier": 0.8905094679692328,
+    "DecisionTreeClassifier": 0.9071223264507857,
     "RandomForestClassifier": 0.9656629196720554,
     "GradientBoostingClassifier": 0.9552370101891605
   }
